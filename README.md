@@ -6,11 +6,13 @@
 __鸽子公共许可证(PPC)__ 适合一切~~不想脱发~~的程序员
 
 ### 使用说明
-可从本仓库克隆或下载 __PPC__ 的中英双语版本，直接添加至仓库内即可
+可从本仓库克隆或下载 __PPC__ ，
+
+目前有简中、繁中和英文
 
 ### 参与贡献
 1.  Fork 本仓库
-2.  新建 *GUGU_xxx* 分支
+2.  新建 *Help_xxx* 分支
 3.  提交更新后内容
 4.  新建 Pull Request
 
@@ -19,14 +21,16 @@ __鸽子公共许可证(PPC)__ 适合一切~~不想脱发~~的程序员
 # Readme_en
 ## Pigeons Public License(PPC)
 
-### Introduce
+### Presentation
 __Pigeons Public License(PPC)__ Suitable for all programmers ~~who don't want to lose their hair~~.
 
 ### Instructions
-Clone or download __PPC__ in both Chinese and English form this repositorie.Then add it into your repositories.
+Clone or download __PPC__ form this repositorie.Then add it into your repositories.
+
+At present,simplified Chinese,traditional Chinese and English are available.
 
 ### Participate & Contribute
 1. Fork
-2. NEW *GUGU_xxx* branch
+2. NEW *Help_xxx* branch
 3. Commit new file
 4. Pull requests
