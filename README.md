@@ -8,8 +8,6 @@ __鸽子公共许可证(PPC)__ 适合一切~~不想脱发~~的程序员
 ### 使用说明
 可从本仓库克隆或下载 __PPC__ ，
 
-目前有简中、繁中和英文
-
 ### 参与贡献
 1.  Fork 本仓库
 2.  新建 *Help_xxx* 分支
@@ -26,8 +24,6 @@ __Pigeons Public License(PPC)__ Suitable for all programmers ~~who don't want to
 
 ### Instructions
 Clone or download __PPC__ form this repositorie.Then add it into your repositories.
-
-At present,simplified Chinese,traditional Chinese and English are available.
 
 ### Participate & Contribute
 1. Fork
